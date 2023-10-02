@@ -32,6 +32,7 @@ const colors = {
   grey: '#C4C4C4',
   mediumGrey: '#A7A7A7',
   deepGrey: '#343434',
+  green: '#127c0f',
   black: '#000000',
   blue: '#1B77F3',
   red: '#CF3C3F'
